@@ -9,20 +9,20 @@
  */
 int print_sign(int n)
 {
-        if (n > 0) // spaces required around '>'
-        {
-        _putchar(43);
-        return (1);
-        }
-        else if (n < 0) // spaces required around '<'
-        {
-        _putchar(45);
-        return (-1);
-        }
-        else 
-        {
-        _putchar(48); // remove trailing whitespace
-        return (0);
-        }
+	if (n > 0) /* spaces required around '>' */
+	{
+		_putchar(43);
+		return (1);
+	}
+	else if (n < 0) /* spaces required around '<' */
+	{
+		_putchar(45);
+		return (-1);
+	}
+	else 
+	{
+		_putchar(48); /* remove trailing whitespace */
+		return (0);
+	}
 }
 
