@@ -1,9 +1,5 @@
 #ifndef CALC
 #define CALC
-#include <stdlib.h>
-#include<string.h>
-#include <stdarg.h>
-#include <stdio.h>
 
 /**
  * struct op - Struct op
@@ -11,7 +7,6 @@
  * @op: The operator
  * @f: The function associated
  */
-
 typedef struct op
 {
 	char *op;
