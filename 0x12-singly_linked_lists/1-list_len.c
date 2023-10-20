@@ -8,14 +8,14 @@
 
 size_t list_len(const list_t *h)
 {
-const list_t *temp;
-unsigned int counter = 0;
+const list_t *temp; /* create a temporary pointer */
+unsigned int counter = 0; /* initialize counter to 0 */
 
-temp = h;
-while (temp)
+temp = h; /* set temp to the start of the list */
+while (temp) /* while temp is not NULL */
 {
-counter++;
-temp = temp->next;
+counter++; /* increment counter */
+temp = temp->next; /* set temp to the next node */
 }
 return (counter);
 }
