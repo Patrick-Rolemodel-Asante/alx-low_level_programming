@@ -1,0 +1,27 @@
+# ninja log v5
+174	278	1696692103698545007	CMakeFiles/MyPrintf.dir/my_struct.c.o	7809a05ef5b445c9
+46	510	1697319838232699288	CMakeFiles/MyPrintf.dir/eben.c.o	2ecd2830989f8d9d
+488	614	1697849714354991064	CMakeFiles/MyPrintf.dir/other-custom-conversion-specifiers.c.o	f3ba5f3a5f0e4c5
+359	487	1697849714226989497	CMakeFiles/MyPrintf.dir/other_helpers.c.o	f2180ba26107c873
+2	231	1697330400505008134	CMakeFiles/MyPrintf.dir/functions_def.c.o	b6ef7f11934f20c2
+0	493	1697852050539686488	build.ninja	62fcaaec715d648a
+1	149	1697851443034585764	CMakeFiles/MyPrintf.dir/non-custom-conversion-specifiers.c.o	9f80c474780b45b7
+2	109	1697849957897822036	CMakeFiles/MyPrintf.dir/test/main.c.o	64e949f7d9e03299
+149	232	1697851443118586444	MyPrintf	311320f518a26441
+2	359	1697849714042987244	CMakeFiles/MyPrintf.dir/_printf.c.o	c1fb1f2342c5958d
+361	475	1697849714214989349	CMakeFiles/MyPrintf.dir/control-printf.c.o	1986a73f29424ae7
+357	477	1697849714214989349	CMakeFiles/MyPrintf.dir/custom-conversion-specifiers.c.o	47841e024898cdb5
+3	136	1696703445207632500	CMakeFiles/MyPrintf.dir/call_funcs.c.o	901611861ad8216f
+2	359	1697849776899745586	CMakeFiles/MyPrintf.dir/help_validate_function.c.o	9e969f72a8046cc8
+1	427	1697629131416177666	CMakeFiles/MyPrintf.dir/main.c.o	41d726348af0ce49
+1	357	1697849714042987244	CMakeFiles/MyPrintf.dir/printf-errors.c.o	9bbd612810c2cebf
+16	221	1697328730690974726	CMakeFiles/MyPrintf.dir/my-printf.c.o	87e2385629c13a
+2	124	1697852096164079060	CMakeFiles/MyPrintf.dir/handlefloatNumbers.c.o	fff335060121921a
+1	145	1697852096188079267	CMakeFiles/MyPrintf.dir/non-custom-conversion-specifiers.c.o	9f80c474780b45b7
+146	237	1697852096280080059	MyPrintf	9af55f69b34e2182
+2	129	1697852159176622605	CMakeFiles/MyPrintf.dir/handlefloatNumbers.c.o	fff335060121921a
+130	214	1697852159260623332	MyPrintf	9af55f69b34e2182
+2	145	1697852394462662818	CMakeFiles/MyPrintf.dir/handlefloatNumbers.c.o	fff335060121921a
+145	228	1697852394546663549	MyPrintf	9af55f69b34e2182
+2	127	1697852511923686229	CMakeFiles/MyPrintf.dir/handlefloatNumbers.c.o	fff335060121921a
+127	202	1697852511995686857	MyPrintf	9af55f69b34e2182
